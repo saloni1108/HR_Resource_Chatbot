@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "skills": [
+      "Python",
+      "React",
+      "AWS"
+    ],
+    "experience_years": 5,
+    "projects": [
+      "E-commerce Platform",
+      "Healthcare Dashboard"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": 2,
+    "name": "Rajesh Kumar",
+    "skills": [
+      "Java",
+      "Spring",
+      "Docker"
+    ],
+    "experience_years": 6,
+    "projects": [
+      "Payment Gateway",
+      "Retail Analytics"
+    ],
+    "availability": "unavailable"
+  },
+  {
+    "id": 3,
+    "name": "Sarah Chen",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "experience_years": 6,
+    "projects": [
+      "Medical Diagnosis Platform",
+      "X-ray CV"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": 4,
+    "name": "Michael Rodriguez",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "Pandas"
+    ],
+    "experience_years": 4,
+    "projects": [
+      "Patient Risk Prediction",
+      "EHR Analytics"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": 5,
+    "name": "Priya Singh",
+    "skills": [
+      "React Native",
+      "TypeScript",
+      "Firebase"
+    ],
+    "experience_years": 3,
+    "projects": [
+      "Fitness App",
+      "Food Delivery App"
+    ],
+    "availability": "unavailable"
+  },
+  {
+    "id": 6,
+    "name": "Liam O'Connor",
+    "skills": [
+      "Go",
+      "Kubernetes",
+      "AWS"
+    ],
+    "experience_years": 7,
+    "projects": [
+      "Microservices Platform",
+      "Observability"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": 7,
+    "name": "Elena Petrova",
+    "skills": [
+      "Data Engineering",
+      "Airflow",
+      "Spark"
+    ],
+    "experience_years": 5,
+    "projects": [
+      "ETL Pipelines",
+      "Data Lake"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": 8,
+    "name": "Daniel Lee",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Terraform"
+    ],
+    "experience_years": 5,
+    "projects": [
+      "Infra as Code",
+      "DevOps Enablement"
+    ],
+    "availability": "unavailable"
+  },
+  {
+    "id": 9,
+    "name": "Fatima Al Zahra",
+    "skills": [
+      "NLP",
+      "Python",
+      "HuggingFace"
+    ],
+    "experience_years": 4,
+    "projects": [
+      "Chatbot Platform",
+      "Support Ticket Classifier"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": 10,
+    "name": "Carlos Mendes",
+    "skills": [
+      "Node.js",
+      "React",
+      "PostgreSQL"
+    ],
+    "experience_years": 5,
+    "projects": [
+      "CRM System",
+      "Sales Dashboard"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": 11,
+    "name": "Aisha Khan",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Python"
+    ],
+    "experience_years": 3,
+    "projects": [
+      "Marketing Analytics",
+      "Customer Segmentation"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": 12,
+    "name": "Tom Williams",
+    "skills": [
+      "C#",
+      ".NET",
+      "Azure"
+    ],
+    "experience_years": 8,
+    "projects": [
+      "Legacy Modernization",
+      "Banking APIs"
+    ],
+    "availability": "unavailable"
+  },
+  {
+    "id": 13,
+    "name": "Yuki Tanaka",
+    "skills": [
+      "Computer Vision",
+      "OpenCV",
+      "PyTorch"
+    ],
+    "experience_years": 4,
+    "projects": [
+      "Defect Detection",
+      "OCR Pipeline"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": 14,
+    "name": "Nikhil Verma",
+    "skills": [
+      "Android",
+      "Kotlin",
+      "Firebase"
+    ],
+    "experience_years": 3,
+    "projects": [
+      "Ride Sharing App",
+      "News App"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": 15,
+    "name": "Sofia Rossi",
+    "skills": [
+      "Python",
+      "Pandas",
+      "ML"
+    ],
+    "experience_years": 5,
+    "projects": [
+      "Demand Forecasting",
+      "Churn Prediction"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": 16,
+    "name": "Omar Hassan",
+    "skills": [
+      "Scala",
+      "Spark",
+      "Kafka"
+    ],
+    "experience_years": 6,
+    "projects": [
+      "Real-time Streaming",
+      "Fraud Detection"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": 17,
+    "name": "Meera Nair",
+    "skills": [
+      "React Native",
+      "GraphQL",
+      "AWS"
+    ],
+    "experience_years": 4,
+    "projects": [
+      "Telemedicine App",
+      "E-learning App"
+    ],
+    "availability": "unavailable"
+  },
+  {
+    "id": 18,
+    "name": "Patrick Müller",
+    "skills": [
+      "Rust",
+      "WebAssembly",
+      "Systems"
+    ],
+    "experience_years": 5,
+    "projects": [
+      "Edge Compute",
+      "Compiler Tooling"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": 19,
+    "name": "Zhang Wei",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "experience_years": 5,
+    "projects": [
+      "Cluster Automation",
+      "CI/CD"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": 20,
+    "name": "Isha Sharma",
+    "skills": [
+      "QA",
+      "Selenium",
+      "Python"
+    ],
+    "experience_years": 4,
+    "projects": [
+      "Test Automation",
+      "Regression Suite"
+    ],
+    "availability": "available"
+  }
+]
